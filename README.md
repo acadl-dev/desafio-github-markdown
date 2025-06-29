@@ -23,6 +23,22 @@ Este projeto pode incluir exemplos com:
 - GitHub
 - Markdown
 
+## 🚧 Como Usar
+Siga os passos abaixo para clonar e explorar este repositório localmente:
+
+1. Clone o repositório:
+   ```bash
+   git clone https://github.com/seu-usuario/nome-do-repositorio.git
+
+2. Acesse a pasta do projeto:
+   ```bash
+    cd nome-do-repositorio
+3. Abra os arquivos em seu editor de código favorito (como o VS Code):
+   ```bash
+     code .
+Este projeto é voltado para fins educacionais e pode ser expandido com novos conteúdos ao longo da formação.
+
+   
 ## ✍️ Autor
 
 Feito com 💻 por Ailton Costa  
